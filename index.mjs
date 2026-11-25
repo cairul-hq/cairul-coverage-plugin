@@ -1,4 +1,4 @@
-import { check, error, readProjectFile, text, verdict, z } from '@cairul/plugin-kit';
+import { check, error, readProjectFile, text, verdict, z } from '@cairul/pdk';
 
 export default function coverage() {
   return {
